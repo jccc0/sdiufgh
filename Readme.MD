@@ -6,7 +6,7 @@ The current notebooks are available:
 
 More information about [GPT-3](https://openai.com/blog/openai-api/) 
 
-## [Pix2Pix] (https://github.com/affinelayer/pix2pix-tensorflow)
+## [Pix2Pix](https://github.com/affinelayer/pix2pix-tensorflow)
 
 More information about [Pix2Pix](https://github.com/jccc0/sdiufgh/blob/main/Pix2Pix.ipynb)
 
@@ -18,6 +18,6 @@ More information about [Image Segmentation](https://github.com/divamgupta/image-
 
 More information about [Stylegan2-ada](https://github.com/NVlabs/stylegan2-ada)
 
-## A simple tool for [Image Conversion](https://github.com/jccc0/sdiufgh/blob/main/convert.ipynb)
+## [A simple tool for Image Conversion](https://github.com/jccc0/sdiufgh/blob/main/convert.ipynb)
 
 This is just a tool just in case is needed
