@@ -10,7 +10,7 @@ More information about [GPT-3](https://openai.com/blog/openai-api/)
 
 More information about [Pix2Pix](https://github.com/jccc0/sdiufgh/blob/main/Pix2Pix.ipynb)
 
-## [Image Segmentation](https://github.com/jccc0/sdiufgh/blob/main/Segmentation-2.ipynb)
+## [Image Segmentation](https://github.com/jccc0/sdiufgh/blob/main/Segmentation_2.ipynb)
 
 More information about [Image Segmentation](https://github.com/divamgupta/image-segmentation-keras)
 
