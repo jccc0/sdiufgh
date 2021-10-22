@@ -2,22 +2,22 @@
 
 The current notebooks are available:
 
-## GPT-3 
+## [GPT-3](https://openai.com/blog/openai-api/) 
 
-More information about GPT-3 
+More information about GPT-3](https://openai.com/blog/openai-api/) 
 
-## Pix2Pix
+## [Pix2Pix] (https://github.com/affinelayer/pix2pix-tensorflow)
 
-More information about Pix2Pix
+More information about [Pix2Pix] (https://github.com/affinelayer/pix2pix-tensorflow)
 
-## Object Segmentation
+## [Image Segmentation] (https://github.com/divamgupta/image-segmentation-keras)
 
-More information about segmentation
+More information about [Image Segmentation] (https://github.com/divamgupta/image-segmentation-keras)
 
-## Stylegan2-ada
+## [Stylegan2-ada] (https://github.com/NVlabs/stylegan2-ada)
 
-More information about Stylegan2
+More information about [Stylegan2-ada] (https://github.com/NVlabs/stylegan2-ada)
 
-## A simple tool for image conversion
+## A simple tool for [Image Conversion] (https://github.com/NVlabs/stylegan2-ada)
 
 This is just a tool just in case is needed
